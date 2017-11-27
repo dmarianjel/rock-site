@@ -1,0 +1,21 @@
+/* #fb8d6f color fondo, head,etc
+#a7e093 background about panda y atributes
+*/
+body{
+	background-color: #fb8d6f;
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	font-weight: lighter;
+}
+#img1 {
+	background-image: url("../images/uno.jpg");
+	background-size: cover;
+}
+#img2 {
+	background-image: url("../images/dos.jpg");
+	background-size: cover;
+}
+#img4 {
+	background-image: url("../images/tres.jpg");
+	background-size: cover;
+}
